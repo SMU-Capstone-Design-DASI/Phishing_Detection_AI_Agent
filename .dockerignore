@@ -1,0 +1,25 @@
+# Python
+.venv
+venv
+__pycache__
+*.pyc
+
+# 환경변수
+.env
+
+# Docker
+Dockerfile
+.dockerignore
+
+# Git / editor
+.git
+.gitignore
+.vscode
+.idea
+
+# 문서
+*.md
+
+# OS files
+.DS_Store
+Thumbs.db
